@@ -73,7 +73,7 @@ const createBook = async (req, res, next) => {
 const updateBook = async (req, res) => {
   try {
     const {
-      name,
+      title,
       author,
       category,
       price,
@@ -84,7 +84,7 @@ const updateBook = async (req, res) => {
     const book = await bookModel.findByIdAndUpdate(
       req.params.id,
       {
-        name,
+        title,
         author,
         category,
         publication_year: new Date(publication_year),
