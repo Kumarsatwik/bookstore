@@ -6,7 +6,7 @@ import Home from "./pages/Home";
 import BooksDetails from "./pages/BooksDetails";
 import AllBooks from "./pages/AllBooks";
 import AddBook from "./pages/AddBook";
-import MyBook from "./pages/myBook";
+import MyBook from "./pages/MyBook";
 import NotFound from "./pages/NotFound";
 
 function App() {
