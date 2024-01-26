@@ -30,3 +30,7 @@ Project Structure
   - Enter Frontend/Backend Folder
     - npm install
     - npm run dev (or) npm start
+   
+# Demo Credentials
+ - email: johndoe@gmail.com
+ - password : 12345
