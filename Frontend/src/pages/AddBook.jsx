@@ -63,7 +63,7 @@ const AddBook = () => {
         const newBook = [...books, res.data];
         dispatch(addBook(newBook));
         toast.success("Successfully Added");
-        navigate("/all-book");
+        navigate("/all-books");
       })
       .catch((err) => {
         toast.error(err.response.data.message);
