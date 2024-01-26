@@ -7,7 +7,7 @@ const Footer = () => {
         <div className="container px-5 py-8 mx-auto flex items-center sm:flex-row flex-col">
           <Link className="flex title-font font-medium items-center md:justify-start justify-center text-gray-900">
             <span className="ml-3 text-xl">
-              <Link to="/>
+              <Link to="/">
                 <p className="text-gray-500 text-xl font-bold">Book</p>
                 </Link>
             </span>
