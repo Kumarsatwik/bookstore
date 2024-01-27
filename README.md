@@ -7,6 +7,14 @@ Features
 - Delete Book
 - Authentication and Authorization
 
+Technology Used 
+ - React.js
+ - Redux 
+ - Node.js
+ - Mongodb
+ - Express.js
+ - Tailwindcss
+
 Project Structure
 
 - Frontend
